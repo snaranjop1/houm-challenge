@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/houm-challenge/static/css/main.9dfe146e.chunk.css",
-    "main.js": "/houm-challenge/static/js/main.826a7dd3.chunk.js",
-    "main.js.map": "/houm-challenge/static/js/main.826a7dd3.chunk.js.map",
+    "main.js": "/houm-challenge/static/js/main.bf9ad8e2.chunk.js",
+    "main.js.map": "/houm-challenge/static/js/main.bf9ad8e2.chunk.js.map",
     "runtime-main.js": "/houm-challenge/static/js/runtime-main.1caa5227.js",
     "runtime-main.js.map": "/houm-challenge/static/js/runtime-main.1caa5227.js.map",
     "static/js/2.31175039.chunk.js": "/houm-challenge/static/js/2.31175039.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1caa5227.js",
     "static/js/2.31175039.chunk.js",
     "static/css/main.9dfe146e.chunk.css",
-    "static/js/main.826a7dd3.chunk.js"
+    "static/js/main.bf9ad8e2.chunk.js"
   ]
 }
