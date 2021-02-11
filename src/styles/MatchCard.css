@@ -1,0 +1,45 @@
+.match-card {
+	border-radius: 10px;
+}
+
+.card-img,
+.card-img-top {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.match-card .card-body h5.card-title {
+	font-weight: 600;
+	font-size: 22px;
+}
+
+.badge {
+	border-radius: 100px;
+	background: #ff5000;
+}
+
+.league {
+	font-weight: 300;
+	font-size: 18px;
+	color: rgb(128, 128, 128);
+	margin-bottom: 12px;
+}
+
+.date {
+	font-weight: 300;
+	font-size: 15px;
+}
+
+.location {
+	font-weight: 300;
+	font-size: 15px;
+}
+
+.hour {
+	font-weight: 300;
+	font-size: 15px;
+}
+
+.icon-loc {
+	text-align: center;
+}

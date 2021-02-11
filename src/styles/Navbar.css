@@ -1,0 +1,11 @@
+.navbar {
+	background: white;
+}
+
+.navbar-brandy {
+	font-weight: 700;
+	font-size: 35px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #ff5000;
+}
