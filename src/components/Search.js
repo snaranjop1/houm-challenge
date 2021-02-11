@@ -9,11 +9,13 @@ export default function Search() {
 	const [liga, setliga] = useState(false);
 	const [bundesliga, setbundesliga] = useState(false);
 	const [seriea, setseriea] = useState(false);
-	const [search, setsearch] = useState("");
 
 	const { matches, setmatches, reset } = useContext(DataContext);
 
 	const textSearch = (text) => {
+		if (text === "") {
+			reset();
+		}
 		setmatches((matches) =>
 			matches.filter((match) =>
 				match.strEvent.toLowerCase().includes(text.toLowerCase())
